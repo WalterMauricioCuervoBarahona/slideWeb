@@ -1,0 +1,14 @@
+.image {
+    position: relative;
+    width: 100%; /* for IE 6 */
+}
+
+h2 {
+    position: absolute;
+    color: #C0FF36;
+    text-align: justify;
+}
+
+video{
+    cursor: pointer;
+}
